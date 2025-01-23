@@ -67,4 +67,4 @@ PRs welcome! 🛠️ Ideas for improvements:
 
 ---  
 
-![Demo]([https://via.placeholder.com/800x400?text=Archer+Terminal+Demo+Here](https://github.com/mainajackson95/archer/blob/main/ss/WhatsApp%20Image%202025-01-23%20at%2011.54.54%20PM.jpeg))
+![Demo]([https://github.com/mainajackson95/archer/blob/main/ss/WhatsApp%20Image%202025-01-23%20at%2011.54.54%20PM.jpeg]
